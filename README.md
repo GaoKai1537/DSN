@@ -1,7 +1,7 @@
 # DSN
 
 Developer knowledge transfer network analysis
-Assignment of Complex Network Analysis, take Baidu's Paddle project as an example, construct knowledge flow network betweeen contributors, apply social network analysis menthod (centrality metrics, community detection, influenctial maximization et.al) to find interesting things.
+Assignment of Complex Network Analysis, take facebookresearch's fastText project as an example, construct knowledge flow network betweeen contributors, apply social network analysis menthod (centrality metrics, community detection, influenctial maximization et.al) to find interesting things.
 
 ## Data Preparation
 
